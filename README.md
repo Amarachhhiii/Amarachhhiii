@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amarachi Roseline
 - 👀 I’m interested in Product Design and UX Research
-- 🌱 I’m currently contibute to https://github.com/oppia/lessons-team/issues Open source Project
+- 🌱 I currently contibute to https://github.com/oppia/lessons-team/issues Open source Project
 - 💞️ I’m looking to collaborate on **UI and UX Research Open Source Projects**
 - 📫 How to reach me @amarachichinweoke@gmail.com
 
